@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5a0230/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5a0230/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 九還七返龍虎金丹析理真訣
+  date: '2015-08-28 23:42:42.811095'
+  source:
+    repository: kanripo
+    path: KR5a0230
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0230_000-HFL.yaml, hash: 'sha256:4effbb2a874eede53f2ab4319c4c90cb5b773e5df48bec147cc499f4c1f67c0e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0230_000-HFL.markers.yaml, hash: 'sha256:40ed5cfd242e27c54810e130dda71dc265fb8b5f7d3e00de76460b89c2596204'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0230_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 2879
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:9aa5e93b2f4af134f6431354fc432791a135e153a4d819e46a3ba6e80adcf0f1
